@@ -1,0 +1,6 @@
+Test Case ID,Status,Evidence
+TC-001,PASS,synthetic-run-001
+TC-002,PASS,synthetic-run-001
+TC-003,FAIL,synthetic-run-001
+TC-004,BLOCKED,Missing test account
+TC-005,NOT RUN,Outside execution window

@@ -1,0 +1,2 @@
+Test Case ID,Requirement or Risk,Module,Title,Technique,Priority,Preconditions,Test Data,Steps,Expected Result,Postconditions,Status,Evidence,Defect ID,Notes
+TC-001,REQ-001,Authentication,Valid user can sign in,Equivalence Partitioning,High,Active user exists,Valid username and password,"1. Open Sign in; 2. Enter valid credentials; 3. Submit","User is authenticated; expected landing page appears; session is created",Sign out,NOT RUN,,,

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tester Workflow"
+  short_description: "Run evidence-backed, multi-step QA workflows"
+  default_prompt: "Use $tester-workflow to inspect this project, plan risk-based testing, and produce evidence-backed QA deliverables."

@@ -1,0 +1,2 @@
+Defect ID,Title,Requirement or Test Case,Build,Environment,Role,Preconditions,Test Data,Steps to Reproduce,Expected Result,Actual Result,Reproducibility,Severity,Priority,Status,Evidence,Notes
+BUG-001,[Area] Incorrect behavior when condition,REQ-001 / TC-001,<build>,<browser/device>,<role>,<precondition>,<data>,"1. ...; 2. ...","<observable expected>","<observable actual>",3/3,High,P1,Open,<path or URL>,
